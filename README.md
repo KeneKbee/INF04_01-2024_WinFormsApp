@@ -8,7 +8,7 @@ The app implements core requirements from the official exam task.
 ## Features
 - Processing user data
 - Changing images based on the number provided by the user
-- Displaying user data via pop-up window based after submitting
+- Displaying user data via pop-up window after submitting
 
 ## Technologies
 - C#
