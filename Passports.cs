@@ -36,14 +36,14 @@ namespace Egzamin
 
         private void submitData(object sender, EventArgs e)
         {
-            if(numberTextBox.Text != "" && nameTextBox.Text != "" && surnameTextBox.Text != "" && (blueEyesRadio.Checked || greenEyesRadio.Checked || beerEyesRadio.Checked))
+            if(nameTextBox.Text != "" && surnameTextBox.Text != "")
             {
                 string eyeColor = blueEyesRadio.Checked ? "niebieskie" : greenEyesRadio.Checked ? "zielone" : beerEyesRadio.Checked ? "piwne" : "";
                 MessageBox.Show($"{nameTextBox.Text} {surnameTextBox.Text} kolor oczu {eyeColor}");
             }
             else
             {
-                MessageBox.Show("Wprowadü dane");
+                MessageBox.Show("Wprowad≈∫ dane");
             }
         }
     }
