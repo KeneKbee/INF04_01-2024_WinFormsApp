@@ -27,4 +27,6 @@ The app implements core requirements from the official exam task.
 Open the project in Visual Studio (`.sln` file) and press `F5` to run.
 
 ## Exam sheets
-<a href="https://arkusze.pl/zawodowy/inf04-2024-styczen-egzamin-zawodowy-praktyczny.pdf">January 2024 Exam Sheets</a>
+<a href="https://arkusze.pl/zawodowy/inf04-2024-styczen-egzamin-zawodowy-praktyczny.pdf">January 2024 Exam Sheets</a><br><br>
+
+<h1 align="center">Created by <a href="https://github.com/KeneKbee">KeneKbee</a></h1>
