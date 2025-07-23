@@ -8,7 +8,7 @@ The app implements core requirements from the official exam task.
 ## Features
 - Processing user data
 - Changing images based on the number provided by the user
-- Displaying text based on user data after submitting via pop-up window
+- Displaying user data via pop-up window based after submitting
 
 ## Technologies
 - C#
@@ -21,6 +21,7 @@ The app implements core requirements from the official exam task.
 
     ```bash
    git clone https://github.com/KeneKbee/INF04_01-2024_WinFormsApp.git
+    ```
 
 ## Running the app
 Open the project in Visual Studio (`.sln` file) and press `F5` to run.
